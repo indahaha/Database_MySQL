@@ -1,0 +1,6 @@
+flask
+pymysql
+xgboost
+numpy
+streamlit
+requests
